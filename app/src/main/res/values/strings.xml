@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prac3</string>
+    <string name="show_tarc">Show TARUC</string>
+    <string name="show_main">Show Main</string>
+    <string name="show_dial">Show Dial</string>
+    <string name="show_send">Show Send</string>
+</resources>
